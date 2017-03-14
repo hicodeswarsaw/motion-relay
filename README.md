@@ -59,5 +59,10 @@ Open the “motion.relay.ino” file with your Arduino software and upload it to
 
 Your sketch should now be running!
 
+<b> Troubleshooting </b>
 
+If it’s not working...
 
+Check all connections. Make sure all components and jumper wires are in the appropriate rows in the solderless breadboard. Make sure you’ve connected to the correct pins on the Arduino.
+
+Use a multimeter to test your circuit. Hook it up in voltage testing mode to test the voltage coming from each photoresistor
